@@ -5,6 +5,7 @@ public class BasicosJaime {
 	public static void main(String[] args) {
 		
 		cadenas();
+		System.out.println();
 
 	}
 	
